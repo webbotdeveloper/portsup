@@ -7,7 +7,7 @@
       "proxy"
     ],
     "website": "https://github.com/ohld/telegram-support-bot",
-    "repository": "https://github.com/ohld/telegram-support-bot",
+    "repository": "https://github.com/webbotdeveloper",
     "success_url": "https://github.com/ohld/telegram-support-bot",
     "env": {
       "HEROKU_APP_NAME": {
